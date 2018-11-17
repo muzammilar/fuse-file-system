@@ -1,0 +1,67 @@
+Image Size = 50 MB
+
+    Without specifying any part:
+        Reads: 341366
+        Writes: 329009
+    
+    Part 1:
+        Reads: 406842
+        Writes: 329009
+    
+    Part 2:
+        Reads: 341031
+        Writes: 329009
+    
+    Part 3:
+        Reads: 200995
+        Writes: 329009
+    
+    Part 4:
+        Reads: 114719
+        Writes: 171351
+
+
+Image Size = 150 MB
+
+    Without specifying any part:
+        Reads: 341469
+        Writes: 666377
+    
+    Part 1:
+        Reads: 407282
+        Writes: 666377
+    
+    Part 2:
+        Reads: 341469
+        Writes: 666377
+    
+    Part 3:
+        Reads: 192070
+        Writes: 666377
+    
+    Part 4:
+        Reads: 104909
+        Writes: 489091
+
+
+Image Size = 500 MB
+
+    Without specifying any part:
+        Reads: 347321
+        Writes: 1903393
+    
+    Part 1:
+        Reads: 412922
+        Writes: 1903393
+    
+    Part 2:
+        Reads: 346990
+        Writes: 1903393
+    
+    Part 3:
+        Reads: 195289
+        Writes: 1903393
+    
+    Part 4:
+        Reads: 98438
+        Writes: 1706367
